@@ -22,7 +22,7 @@
     "require": {
         "php": "^7.0",
         "league/flysystem": "^1.0",
-        "delaneymethod/sharepoint-api": "^2.0.0"
+        "delaneymethod/sharepoint-api": "master"
     },
     "repositories": [
         {
