@@ -27,7 +27,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:buckeye-interactive/flysystem-sharepoint"
+            "url": "git@github.com:buckeye-interactive/sharepoint-api"
         }
     ],
     "require-dev": {
